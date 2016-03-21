@@ -1,2 +1,6 @@
 another file
+<<<<<<< HEAD
 another two
+=======
+here comes another file
+>>>>>>> d377f7de6380821e50f82264297172e77d7835bd
