@@ -1,3 +1,4 @@
 another file
 we added another one here
-added something
+added something -modified this
+I am adding a new line again
